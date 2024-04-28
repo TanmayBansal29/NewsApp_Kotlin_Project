@@ -37,10 +37,3 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
  * Android Studio
  * Third party libraries like [retrofit](https://square.github.io/retrofit/), [picasso](https://square.github.io/picasso/), [shimmer](https://github.com/facebook/shimmer-android).
 
-
-
-### 📝 License 
-
-Copyright (c) 2022 Raj Manjrekar
-
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
